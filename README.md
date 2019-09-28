@@ -34,6 +34,6 @@ a: state=ClockState.PAUSE elapsed=1.0027 prev_time=1548382910.66398311
 b: state=ClockState.PAUSE elapsed=0.5051 prev_time=1548382911.66670585
 """
 
-e.clear('a')
-e.clear('b')
+w.clear('a')
+w.clear('b')
 ```
